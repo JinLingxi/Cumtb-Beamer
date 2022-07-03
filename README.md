@@ -1,10 +1,10 @@
 # CUMTB-Beamer-Theme
  A Beamer Theme of CUMTB for academic report, thesis and talk.
 # Demo
-<img src="img/demo1.jpg" >
-<img src="img/demo2.jpg" >
-<img src="img/demo3.jpg" >
-<img src="img/demo4.jpg" > 
+<img src="Cumtb-Beamer/img/demo1.jpg" >
+<img src="Cumtb-Beamer/img/demo2.jpg" >
+<img src="Cumtb-Beamer/img/demo3.jpg" >
+<img src="Cumtb-Beamer/img/demo4.jpg" > 
 
 # Document
  Check out the tutorial in [How_to_do_pku_beamer_theme](How_to_do_pku_beamer_theme.pdf) for details.
